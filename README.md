@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working on building applications from fun games to practical tools like flashcards, chess simulators, and an assembly code converter (ARC)<br>
 👯 I'm looking to collaborate on projects that involve creative problem-solving and teamwork - I love debating ideas and pushing each other to improve<br>
-🤝 I'm looking for help with expanding my knowledge in AI development<br>
+🤝 I'm looking for help with expanding my knowledge in AI development and robotics development<br>
 🌱 I'm currently learning advanced Computer Science concepts in my 3rd year at Toronto Metropolitan University<br>
 💬 Ask me about Python, Java, robotics, Arduino projects, or anything related to cars and mechanical work<br>
 ⚡ Fun fact: I hold certifications in First Aid and CPR alongside my programming skills!
