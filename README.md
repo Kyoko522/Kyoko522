@@ -1,10 +1,14 @@
 # 💫 About Me:
-🔭 I'm currently working on building applications from fun games to practical tools like flashcards, chess simulators, and an assembly code converter (ARC)<br>
-👯 I'm looking to collaborate on projects that involve creative problem-solving and teamwork - I love debating ideas and pushing each other to improve<br>
-🤝 I'm looking for help with expanding my knowledge in AI development and robotics development<br>
-🌱 I'm currently learning advanced Computer Science concepts in my 3rd year at Toronto Metropolitan University<br>
-💬 Ask me about Python, Java, robotics, Arduino projects, or anything related to cars and mechanical work<br>
-⚡ Fun fact: I hold certifications in First Aid and CPR alongside my programming skills!
+I'm a Computer Science student at Toronto Metropolitan University in my third year. I enjoy creating applications ranging from games to practical tools like flashcards and chess simulators.
+
+When I'm not focused on schoolwork, you'll find me designing robots, working under the hood of a car, or coding with Arduino. I'm fascinated by AI and enjoy the perfect balance between solving complex programming challenges and getting my hands dirty with mechanical projects.
+
+I thrive in collaborative environments where ideas can be openly discussed and tested. Gaming is another interest of mine — both playing and developing games that create engaging experiences.
+              
+My approach to computer science is versatile; I enjoy tackling different aspects of projects and paying attention to the details that make technology work smoothly. (Most times at least!)
+
+Welcome to my github — I'm glad you're here!
+
 
 
 ## 🌐 Socials:
